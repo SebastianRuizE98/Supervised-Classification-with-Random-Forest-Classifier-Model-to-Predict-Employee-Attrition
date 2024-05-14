@@ -28,6 +28,7 @@ Data was filtered by the condition if attrition was true or false.
 The following graphs show the distribution of the values from the relevant variables for the development of the model and the analysis.
 
 **_Graph 1_**. Magnitude of 'attrition' vs 'no-attrition'
+!(Attrition graph.png)
 
 
 **_Graph 2_**. Distribution of attrition according to education level
