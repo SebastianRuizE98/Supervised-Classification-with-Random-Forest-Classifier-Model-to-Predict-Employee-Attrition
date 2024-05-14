@@ -95,6 +95,10 @@ This graph show the dispersion of salaries by attrition status. In this graph, n
 The model was trained using the 'forest.feature_importance' function to select the most relevant features for training while discarding those that decreased prediction accuracy. Variables were iteratively eliminated one by one, and the model was retrained until maximum achievable accuracy was reached. The achieved prediction accuracy of the model was 96.140%. Additional error metrics were implemented to assess false and true positives. Recall, specificity, and F1 score were employed to validate the model in addition to the calculated accuracy. Recall measures the proportion of actual positives that were correctly identified by the model (47.826%), specificity measures the proportion of actual negatives that were correctly identified (98.080%), and F1 score provides a balance between precision and recall (63.876%).
 
 **_Graph 8_**. Confusion Matrix
+<p align="center">
+  <img src="https://github.com/SebastianRuizE98/Supervised-Classification-with-Random-Forest-Classifier-Model-to-Predict-Employee-Attrition/blob/main/confusion_matrix.png?raw=true" alt="Confusion Matrix">
+</p>
+
 
 
 In this graph, number 0 stands for ‘False’ and number 1 for ‘True’. The confusion matrix provides a detailed breakdown of the performance of a binary classification model. In this particular instance, the matrix reveals that the model correctly classified 562 instances as negative (True Negatives) and 11 instances as positive (True Positives). However, the model also misclassified 12 instances of actual positives as negatives (False Negatives) and 11 instances of actual negatives as positives (False Positives).
