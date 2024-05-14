@@ -81,7 +81,7 @@ The 'designation' variable indicates the role designation held by employees as o
 
 
 
-**_Graph 7_**. Dispersion o salaries by attrition status
+**_Graph 7_**. Dispersion of salaries by attrition status
 
 
 
