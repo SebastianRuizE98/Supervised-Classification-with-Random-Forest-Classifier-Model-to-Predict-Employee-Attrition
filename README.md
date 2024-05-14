@@ -64,6 +64,10 @@ It is imperative to note the absence of explicit data regarding the values assig
 This graph suggests that employees whose joining designation is ‘1’ have the highest probabilities for attrition followed by the ones whose ‘joining designation is ‘2’
 
 **_Graph 5_**. Distribution of attrition according to designation
+<p align="center">
+  <img src="https://github.com/SebastianRuizE98/Supervised-Classification-with-Random-Forest-Classifier-Model-to-Predict-Employee-Attrition/blob/main/designation_graph.png?raw=true" alt="Designation Graph">
+</p>
+
 
 
 
