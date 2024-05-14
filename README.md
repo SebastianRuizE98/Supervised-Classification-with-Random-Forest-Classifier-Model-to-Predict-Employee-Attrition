@@ -43,12 +43,18 @@ The following graphs show the distribution of the values from the relevant varia
 This graph suggests that college students have a higher probability for attrition.
 
 **_Graph 3_**. Distribution of attrition according to gender
+<p align="center">
+  <img src="https://github.com/SebastianRuizE98/Supervised-Classification-with-Random-Forest-Classifier-Model-to-Predict-Employee-Attrition/blob/main/gender_graph.png?raw=true" alt="Gender Graph">
+</p>
 
 
 
 This graph suggests that male employees have a higher probability for attrition.
 
 **_Graph 4_**. Distribution of attrition according to joining designation ![]
+
+
+
 It is imperative to note the absence of explicit data regarding the values assigned to the joining designations within the dataset. To address this limitation, an analytical approach was adopted, leveraging the frequency distribution of each joining designation categorized by education level. This methodology was predicated on the assumption that the organizational hierarchy of education levels significantly influences the designation of roles upon individuals joining the company. We cannot conclude the presence of a hierarchical structure for the values assigned to each role.
 
 This graph suggests that employees whose joining designation is ‘1’ have the highest probabilities for attrition followed by the ones whose ‘joining designation is ‘2’
