@@ -82,6 +82,9 @@ The 'designation' variable indicates the role designation held by employees as o
 
 
 **_Graph 7_**. Dispersion of salaries by attrition status
+<p align="center">
+  <img src="https://github.com/SebastianRuizE98/Supervised-Classification-with-Random-Forest-Classifier-Model-to-Predict-Employee-Attrition/blob/main/salary_graph.png?raw=true" alt="Salary Graph">
+</p>
 
 
 
