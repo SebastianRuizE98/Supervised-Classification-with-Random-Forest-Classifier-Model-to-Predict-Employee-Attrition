@@ -52,6 +52,9 @@ This graph suggests that college students have a higher probability for attritio
 This graph suggests that male employees have a higher probability for attrition.
 
 **_Graph 4_**. Distribution of attrition according to joining designation
+<p align="center">
+  <img src="https://github.com/SebastianRuizE98/Supervised-Classification-with-Random-Forest-Classifier-Model-to-Predict-Employee-Attrition/blob/main/joining%20designation%20graph.png?raw=true" alt="Joining Designation Graph">
+</p>
 
 
 
