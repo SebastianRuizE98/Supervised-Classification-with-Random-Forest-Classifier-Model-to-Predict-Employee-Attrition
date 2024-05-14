@@ -28,7 +28,8 @@ Data was filtered by the condition if attrition was true or false.
 The following graphs show the distribution of the values from the relevant variables for the development of the model and the analysis.
 
 **_Graph 1_**. Magnitude of 'attrition' vs 'no-attrition'
-![](https://github.com/SebastianRuizE98/Supervised-Classification-with-Random-Forest-Classifier-Model-to-Predict-Employee-Attrition/blob/main/Attrition%20graph.png?raw=true)
+![]
+(https://github.com/SebastianRuizE98/Supervised-Classification-with-Random-Forest-Classifier-Model-to-Predict-Employee-Attrition/blob/main/Attrition%20graph.png?raw=true)
 
 
 **_Graph 2_**. Distribution of attrition according to education level
