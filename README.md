@@ -13,7 +13,7 @@ Random Forest is a machine learning technique that can be used for classificatio
 
 As employee attrition is a multicausal phenomenon, a Random Forest Model fit the features for this analysis.
 
-1. **Data**
+2. **Data**
 
 The data was downloaded from [Predicting Employee Attrition (kaggle.com)](https://www.kaggle.com/datasets/pavan9065/predicting-employee-attrition/data?select=train_data.csv). It consisted of a data frame with variables related to employee attrition, for example, age, gender, education level, salary, joining designation, designation, total business value and quarterly ranking. Another variable relevant for this analysis was days worked, but it was calculated from last day worked and first working date, these variables were not relevant to train the model. There were also other variables that were not considered for the analysis and training because of its lack of relevance in this case.
 
